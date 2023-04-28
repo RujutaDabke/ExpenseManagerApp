@@ -7,8 +7,13 @@ In this application, a user can enter the application with his/her name, add inc
 
 ##Requirement Specifications
 •	User can access the application using only the name.
+
 •	Users can change their own name at any time by entering the profile section.
+
 •	On the home page of this application a user can see in his dashboard, how much money he/she has earned, how much money he/she has spent andhow much money he/she has.
+
 •	A user can view his transactions on the home page.
+
 •	A user will be able to record in the transaction section, the amount of money, the date of the money, the date on which the incident took place and whether it is income or expense.
+
 •	A user will be able to delete the transaction
