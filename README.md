@@ -6,6 +6,7 @@ Expense Manager is an application that allows a user to easily keep track of how
 In this application, a user can enter the application with his/her name, add income or expenses by specifying the amount of money. How much money he/she receives details of what he/she did or where he/she spent it and on what date he/she withdrew the money or on what date he/she spent the money will be stored as input.
 
 ##Requirement Specifications
+
 •	User can access the application using only the name.
 
 •	Users can change their own name at any time by entering the profile section.
