@@ -18,3 +18,7 @@ In this application, a user can enter the application with his/her name, add inc
 •	A user will be able to record in the transaction section, the amount of money, the date of the money, the date on which the incident took place and whether it is income or expense.
 
 •	A user will be able to delete the transaction
+
+
+
+
